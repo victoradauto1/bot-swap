@@ -1,1 +1,2 @@
 # bot-swap
+# bot-sniper
